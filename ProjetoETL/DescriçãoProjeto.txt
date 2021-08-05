@@ -1,0 +1,5 @@
+Descrição do Projeto ETL
+
+O projeto teve como objetivo a extração de dados de incidentes aéreos ocorridos no Brasil, nos anos de 2010 até 2020. A fonte de dados utilizada, foram os dados abertos disponibilizados no site da CENIPA no link: https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
+
+Para esse projeto fizemos apenas a parte de extração e limpeza/transformação dos dados. Como foi para fins didáticos o professor optou por não fazer a etapa de carregamento, visto que essa etapa pode ser feita de várias formas de acordo com o objetivo/negócio em caso de um projeto real.
