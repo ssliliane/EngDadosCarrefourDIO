@@ -1,5 +1,5 @@
-# EngDadosCarrefourDIO
-Projeto contendo todos os Projetos propostosndo Bootcamp Engenharia de Dados Banco Carrefour da Digital Innovation One
+# Engenheiro de Dados Carrefour DIO
+Repositório contendo todos os projetos propostos no Bootcamp Engenharia de Dados Banco Carrefour da Digital Innovation One
 
  **Projetos:**
 
